@@ -1,1 +1,2 @@
-# APP-Proyecto-1
+# IRMINSUL RECORDS
+## Genshin Artifact Builder & Wiki
