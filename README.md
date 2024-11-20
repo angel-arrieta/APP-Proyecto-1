@@ -12,8 +12,9 @@ Existen ya varias aplicaciones con funciones similares:
 
 La web [Enka Network](https://enka.network), esta web se enfoca en poder ver los datos de tus personajes dentro del juego y poder ver de manera desglosada la información de sus estadísticas, lo más llamativo de esta aplicacion es su estética y el nombre de la app, con ambientación de elementos de dentro del juego.
 
-La web [Akasha System](https://akasha.cv/), esta web tiene una función similar que Enka Network (hace uso de la misma API que Enka Network) te permite ver los datos de personajes y también recoge los datos de todos los jugadores existentes dentro del juego y crea tops de personajes para poder comparar cuales son las mejores builds para cada personaje. Parecido a Enka Network, el nombre de Akasha System, esta ambientado en parte de la historia del videojuego.
+[Akasha System](https://akasha.cv/), tiene una función similar que Enka Network (hace uso de la misma API que Enka Network) te permite ver los datos de personajes y también recoge los datos de todos los jugadores existentes dentro del juego y crea tops de personajes para poder comparar cuales son las mejores builds para cada personaje. Parecido a Enka Network, el nombre de Akasha System, esta ambientado en parte de la historia del videojuego.
 
-La web [Genshin Aspirine](https://genshin.aspirine.su/), es una calculadora ultra-detallada de estadísticas de personaje, esta te permite alterar todas las estadísticas posibles de un personaje y calcular que daño le haría a los enemigos, simulando incluso estadísticas de enemigos y que daño le haría. Esta calculadora incluso ofrece el poder ver 
-mecanicas especiales y como afectaran a la hora de hacer daño a un enemigo.
+La aplicación web [Genshin Aspirine](https://genshin.aspirine.su/), es una calculadora ultra-detallada de estadísticas de personaje, esta te permite alterar todas las estadísticas posibles de un personaje y calcular que daño le haría a los enemigos, simulando incluso estadísticas de enemigos y que daño le haría. Esta calculadora incluso ofrece el poder ver mecanicas especiales y como afectaran a la hora de hacer daño a un enemigo.
+
+Por último [Shiori (Shiori for GI: Unofficial)](https://play.google.com/store/apps/details?id=com.miraisoft.shiori) es una aplicación de base de datos donde puedes ver la información de los personajes, artefactos, armas, materiales y monstruos. También te recomiendan builds para tus personajes y te muestra los dias disponibles que puedes acceder a conseguir recursos para mejorar y construir tus personajes y armas.
 
